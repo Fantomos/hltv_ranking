@@ -20,6 +20,7 @@ listTPC = {'Teams':b.getTeams(),'Players':b.getPlayers(),'Countries':b.getCountr
 
 
 app = dash.Dash(__name__)
+server = app.server
 
 colors = {
     'background': '#111111',

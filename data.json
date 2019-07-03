@@ -1,6 +1,6 @@
 {
   "startDate": "2015-10-1",
-  "endDate": "2019-6-28",
+  "endDate": "2019-7-1",
   "tops": [
     {
       "date": "2015-10-1",
@@ -166164,6 +166164,882 @@
               {
                 "name": "XANTARES",
                 "country": "Turkey"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "date": "2019-7-1",
+      "url": "https://www.hltv.org/ranking/teams/2019/july/1",
+      "top": [
+        {
+          "pos": 1,
+          "points": "1000",
+          "team": {
+            "name": "Liquid",
+            "playerList": [
+              {
+                "name": "nitr0",
+                "country": "United States"
+              },
+              {
+                "name": "NAF",
+                "country": "Canada"
+              },
+              {
+                "name": "EliGE",
+                "country": "United States"
+              },
+              {
+                "name": "Stewie2K",
+                "country": "United States"
+              },
+              {
+                "name": "Twistzz",
+                "country": "Canada"
+              }
+            ]
+          }
+        },
+        {
+          "pos": 2,
+          "points": "547",
+          "team": {
+            "name": "ENCE",
+            "playerList": [
+              {
+                "name": "allu",
+                "country": "Finland"
+              },
+              {
+                "name": "Aerial",
+                "country": "Finland"
+              },
+              {
+                "name": "xseveN",
+                "country": "Finland"
+              },
+              {
+                "name": "Aleksib",
+                "country": "Finland"
+              },
+              {
+                "name": "sergej",
+                "country": "Finland"
+              }
+            ]
+          }
+        },
+        {
+          "pos": 3,
+          "points": "545",
+          "team": {
+            "name": "Vitality",
+            "playerList": [
+              {
+                "name": "NBK-",
+                "country": "France"
+              },
+              {
+                "name": "RpK",
+                "country": "France"
+              },
+              {
+                "name": "apEX",
+                "country": "France"
+              },
+              {
+                "name": "ALEX",
+                "country": "United Kingdom"
+              },
+              {
+                "name": "ZywOo",
+                "country": "France"
+              }
+            ]
+          }
+        },
+        {
+          "pos": 4,
+          "points": "540",
+          "team": {
+            "name": "Astralis",
+            "playerList": [
+              {
+                "name": "Xyp9x",
+                "country": "Denmark"
+              },
+              {
+                "name": "dupreeh",
+                "country": "Denmark"
+              },
+              {
+                "name": "gla1ve",
+                "country": "Denmark"
+              },
+              {
+                "name": "device",
+                "country": "Denmark"
+              },
+              {
+                "name": "Magisk",
+                "country": "Denmark"
+              }
+            ]
+          }
+        },
+        {
+          "pos": 5,
+          "points": "362",
+          "team": {
+            "name": "FaZe",
+            "playerList": [
+              {
+                "name": "NEO",
+                "country": "Poland"
+              },
+              {
+                "name": "olofmeister",
+                "country": "Sweden"
+              },
+              {
+                "name": "GuardiaN",
+                "country": "Slovakia"
+              },
+              {
+                "name": "NiKo",
+                "country": "Bosnia and Herzegovina"
+              },
+              {
+                "name": "rain",
+                "country": "Norway"
+              }
+            ]
+          }
+        },
+        {
+          "pos": 6,
+          "points": "358",
+          "team": {
+            "name": "NRG",
+            "playerList": [
+              {
+                "name": "stanislaw",
+                "country": "Canada"
+              },
+              {
+                "name": "tarik",
+                "country": "United States"
+              },
+              {
+                "name": "Brehze",
+                "country": "United States"
+              },
+              {
+                "name": "Ethan",
+                "country": "United States"
+              },
+              {
+                "name": "CeRq",
+                "country": "Bulgaria"
+              }
+            ]
+          }
+        },
+        {
+          "pos": 7,
+          "points": "353",
+          "team": {
+            "name": "FURIA",
+            "playerList": [
+              {
+                "name": "arT",
+                "country": "Brazil"
+              },
+              {
+                "name": "yuurih",
+                "country": "Brazil"
+              },
+              {
+                "name": "VINI",
+                "country": "Brazil"
+              },
+              {
+                "name": "KSCERATO",
+                "country": "Brazil"
+              },
+              {
+                "name": "ableJ",
+                "country": "Brazil"
+              }
+            ]
+          }
+        },
+        {
+          "pos": 8,
+          "points": "326",
+          "team": {
+            "name": "G2",
+            "playerList": [
+              {
+                "name": "JaCkz",
+                "country": "France"
+              },
+              {
+                "name": "shox",
+                "country": "France"
+              },
+              {
+                "name": "kennyS",
+                "country": "France"
+              },
+              {
+                "name": "AmaNEk",
+                "country": "France"
+              },
+              {
+                "name": "Lucky",
+                "country": "France"
+              }
+            ]
+          }
+        },
+        {
+          "pos": 9,
+          "points": "301",
+          "team": {
+            "name": "North",
+            "playerList": [
+              {
+                "name": "aizy",
+                "country": "Denmark"
+              },
+              {
+                "name": "Kjaerbye",
+                "country": "Denmark"
+              },
+              {
+                "name": "JUGi",
+                "country": "Denmark"
+              },
+              {
+                "name": "gade",
+                "country": "Denmark"
+              },
+              {
+                "name": "valde",
+                "country": "Denmark"
+              }
+            ]
+          }
+        },
+        {
+          "pos": 10,
+          "points": "268",
+          "team": {
+            "name": "mousesports",
+            "playerList": [
+              {
+                "name": "karrigan",
+                "country": "Denmark"
+              },
+              {
+                "name": "chrisJ",
+                "country": "Netherlands"
+              },
+              {
+                "name": "woxic",
+                "country": "Turkey"
+              },
+              {
+                "name": "frozen",
+                "country": "Slovakia"
+              },
+              {
+                "name": "ropz",
+                "country": "Estonia"
+              }
+            ]
+          }
+        },
+        {
+          "pos": 11,
+          "points": "265",
+          "team": {
+            "name": "fnatic",
+            "playerList": [
+              {
+                "name": "Xizt",
+                "country": "Sweden"
+              },
+              {
+                "name": "JW",
+                "country": "Sweden"
+              },
+              {
+                "name": "twist",
+                "country": "Sweden"
+              },
+              {
+                "name": "KRIMZ",
+                "country": "Sweden"
+              },
+              {
+                "name": "Brollan",
+                "country": "Sweden"
+              }
+            ]
+          }
+        },
+        {
+          "pos": 12,
+          "points": "255",
+          "team": {
+            "name": "MIBR",
+            "playerList": [
+              {
+                "name": "FalleN",
+                "country": "Brazil"
+              },
+              {
+                "name": "fer",
+                "country": "Brazil"
+              },
+              {
+                "name": "LUCAS1",
+                "country": "Brazil"
+              },
+              {
+                "name": "coldzera",
+                "country": "Brazil"
+              },
+              {
+                "name": "TACO",
+                "country": "Brazil"
+              }
+            ]
+          }
+        },
+        {
+          "pos": 13,
+          "points": "248",
+          "team": {
+            "name": "Natus Vincere",
+            "playerList": [
+              {
+                "name": "Zeus",
+                "country": "Ukraine"
+              },
+              {
+                "name": "flamie",
+                "country": "Russia"
+              },
+              {
+                "name": "s1mple",
+                "country": "Ukraine"
+              },
+              {
+                "name": "electronic",
+                "country": "Russia"
+              },
+              {
+                "name": "Boombl4",
+                "country": "Russia"
+              }
+            ]
+          }
+        },
+        {
+          "pos": 14,
+          "points": "204",
+          "team": {
+            "name": "NiP",
+            "playerList": [
+              {
+                "name": "f0rest",
+                "country": "Sweden"
+              },
+              {
+                "name": "GeT_RiGhT",
+                "country": "Sweden"
+              },
+              {
+                "name": "Lekr0",
+                "country": "Sweden"
+              },
+              {
+                "name": "REZ",
+                "country": "Sweden"
+              },
+              {
+                "name": "Plopski",
+                "country": "Sweden"
+              }
+            ]
+          }
+        },
+        {
+          "pos": 15,
+          "points": "176",
+          "team": {
+            "name": "Renegades",
+            "playerList": [
+              {
+                "name": "jks",
+                "country": "Australia"
+              },
+              {
+                "name": "AZR",
+                "country": "Australia"
+              },
+              {
+                "name": "jkaem",
+                "country": "Norway"
+              },
+              {
+                "name": "Gratisfaction",
+                "country": "New Zealand"
+              },
+              {
+                "name": "Liazz",
+                "country": "Australia"
+              }
+            ]
+          }
+        },
+        {
+          "pos": 16,
+          "points": "134",
+          "team": {
+            "name": "Heroic",
+            "playerList": [
+              {
+                "name": "friberg",
+                "country": "Sweden"
+              },
+              {
+                "name": "es3tag",
+                "country": "Denmark"
+              },
+              {
+                "name": "NaToSaphiX",
+                "country": "Denmark"
+              },
+              {
+                "name": "stavn",
+                "country": "Denmark"
+              },
+              {
+                "name": "blameF",
+                "country": "Denmark"
+              }
+            ]
+          }
+        },
+        {
+          "pos": 17,
+          "points": "120",
+          "team": {
+            "name": "CR4ZY",
+            "playerList": [
+              {
+                "name": "huNter",
+                "country": "Serbia"
+              },
+              {
+                "name": "LETN1",
+                "country": "Serbia"
+              },
+              {
+                "name": "nexa",
+                "country": "Serbia"
+              },
+              {
+                "name": "ottoNd",
+                "country": "Finland"
+              },
+              {
+                "name": "EspiranTo",
+                "country": "Lithuania"
+              }
+            ]
+          }
+        },
+        {
+          "pos": 18,
+          "points": "116",
+          "team": {
+            "name": "OpTic",
+            "playerList": [
+              {
+                "name": "MSL",
+                "country": "Denmark"
+              },
+              {
+                "name": "k0nfig",
+                "country": "Denmark"
+              },
+              {
+                "name": "niko",
+                "country": "Denmark"
+              },
+              {
+                "name": "refrezh",
+                "country": "Denmark"
+              },
+              {
+                "name": "TeSeS",
+                "country": "Denmark"
+              }
+            ]
+          }
+        },
+        {
+          "pos": 19,
+          "points": "101",
+          "team": {
+            "name": "Windigo",
+            "playerList": [
+              {
+                "name": "bubble",
+                "country": "Bulgaria"
+              },
+              {
+                "name": "v1c7oR",
+                "country": "Bulgaria"
+              },
+              {
+                "name": "blocker",
+                "country": "Bulgaria"
+              },
+              {
+                "name": "SHiPZ",
+                "country": "Bulgaria"
+              },
+              {
+                "name": "poizon",
+                "country": "Bulgaria"
+              }
+            ]
+          }
+        },
+        {
+          "pos": 20,
+          "points": "90",
+          "team": {
+            "name": "AVANGAR",
+            "playerList": [
+              {
+                "name": "AdreN",
+                "country": "Kazakhstan"
+              },
+              {
+                "name": "SANJI",
+                "country": "Uzbekistan"
+              },
+              {
+                "name": "buster",
+                "country": "Kazakhstan"
+              },
+              {
+                "name": "qikert",
+                "country": "Kazakhstan"
+              },
+              {
+                "name": "Jame",
+                "country": "Russia"
+              }
+            ]
+          }
+        },
+        {
+          "pos": 21,
+          "points": "88",
+          "team": {
+            "name": "Ancient",
+            "playerList": [
+              {
+                "name": "draken",
+                "country": "Sweden"
+              },
+              {
+                "name": "disco doplan",
+                "country": "Sweden"
+              },
+              {
+                "name": "freddieb",
+                "country": "Sweden"
+              },
+              {
+                "name": "RuStY",
+                "country": "Sweden"
+              },
+              {
+                "name": "grux",
+                "country": "Sweden"
+              }
+            ]
+          }
+        },
+        {
+          "pos": 22,
+          "points": "88",
+          "team": {
+            "name": "Sprout",
+            "playerList": [
+              {
+                "name": "syrsoN",
+                "country": "Germany"
+              },
+              {
+                "name": "Spiidi",
+                "country": "Germany"
+              },
+              {
+                "name": "mirbit",
+                "country": "Germany"
+              },
+              {
+                "name": "k1to",
+                "country": "Germany"
+              },
+              {
+                "name": "faveN",
+                "country": "Germany"
+              }
+            ]
+          }
+        },
+        {
+          "pos": 23,
+          "points": "83",
+          "team": {
+            "name": "Tricked",
+            "playerList": [
+              {
+                "name": "HUNDEN",
+                "country": "Denmark"
+              },
+              {
+                "name": "Bubzkji",
+                "country": "Denmark"
+              },
+              {
+                "name": "b0RUP",
+                "country": "Denmark"
+              },
+              {
+                "name": "acoR",
+                "country": "Denmark"
+              },
+              {
+                "name": "sjuush",
+                "country": "Denmark"
+              }
+            ]
+          }
+        },
+        {
+          "pos": 24,
+          "points": "83",
+          "team": {
+            "name": "GamerLegion",
+            "playerList": [
+              {
+                "name": "Ex6TenZ",
+                "country": "Belgium"
+              },
+              {
+                "name": "ScreaM",
+                "country": "Belgium"
+              },
+              {
+                "name": "HS",
+                "country": "Estonia"
+              },
+              {
+                "name": "hampus",
+                "country": "Sweden"
+              },
+              {
+                "name": "nawwk",
+                "country": "Sweden"
+              }
+            ]
+          }
+        },
+        {
+          "pos": 25,
+          "points": "76",
+          "team": {
+            "name": "Cloud9",
+            "playerList": [
+              {
+                "name": "cajunb",
+                "country": "Denmark"
+              },
+              {
+                "name": "RUSH",
+                "country": "United States"
+              },
+              {
+                "name": "autimatic",
+                "country": "United States"
+              },
+              {
+                "name": "vice",
+                "country": "United States"
+              },
+              {
+                "name": "Golden",
+                "country": "Sweden"
+              }
+            ]
+          }
+        },
+        {
+          "pos": 26,
+          "points": "73",
+          "team": {
+            "name": "Complexity",
+            "playerList": [
+              {
+                "name": "ShahZaM",
+                "country": "United States"
+              },
+              {
+                "name": "dephh",
+                "country": "United Kingdom"
+              },
+              {
+                "name": "Rickeh",
+                "country": "Australia"
+              },
+              {
+                "name": "SicK",
+                "country": "United States"
+              },
+              {
+                "name": "oBo",
+                "country": "United States"
+              }
+            ]
+          }
+        },
+        {
+          "pos": 27,
+          "points": "69",
+          "team": {
+            "name": "HellRaisers",
+            "playerList": [
+              {
+                "name": "ANGE1",
+                "country": "Ukraine"
+              },
+              {
+                "name": "oskar",
+                "country": "Czech Republic"
+              },
+              {
+                "name": "loWel",
+                "country": "Spain"
+              },
+              {
+                "name": "ISSAA",
+                "country": "Jordan"
+              },
+              {
+                "name": "nukkye",
+                "country": "Lithuania"
+              }
+            ]
+          }
+        },
+        {
+          "pos": 28,
+          "points": "67",
+          "team": {
+            "name": "Aristocracy",
+            "playerList": [
+              {
+                "name": "TaZ",
+                "country": "Poland"
+              },
+              {
+                "name": "MINISE",
+                "country": "Poland"
+              },
+              {
+                "name": "rallen",
+                "country": "Poland"
+              },
+              {
+                "name": "mouz",
+                "country": "Poland"
+              },
+              {
+                "name": "dycha",
+                "country": "Poland"
+              }
+            ]
+          }
+        },
+        {
+          "pos": 29,
+          "points": "64",
+          "team": {
+            "name": "forZe",
+            "playerList": [
+              {
+                "name": "facecrack",
+                "country": "Russia"
+              },
+              {
+                "name": "almazer",
+                "country": "Russia"
+              },
+              {
+                "name": "FL1T",
+                "country": "Russia"
+              },
+              {
+                "name": "xsepower",
+                "country": "Russia"
+              },
+              {
+                "name": "Jerry",
+                "country": "Russia"
+              }
+            ]
+          }
+        },
+        {
+          "pos": 30,
+          "points": "58",
+          "team": {
+            "name": "Grayhound",
+            "playerList": [
+              {
+                "name": "Sico",
+                "country": "New Zealand"
+              },
+              {
+                "name": "dexter",
+                "country": "Australia"
+              },
+              {
+                "name": "erkaSt",
+                "country": "Mongolia"
+              },
+              {
+                "name": "malta",
+                "country": "Australia"
+              },
+              {
+                "name": "DickStacy",
+                "country": "Australia"
               }
             ]
           }

@@ -193,7 +193,7 @@ transform: translateX(150%);
  width: 80px;
     height: 80px;
     position: fixed;
-    background-color: #2A5298;
+    background-color: #fff;
     top: 44.5%;
     left: 47.4%;
     text-indent: 100%;
@@ -289,7 +289,6 @@ display:flex;
     color: white;
     writing-mode: vertical-lr;
     z-index: 99;
-	zoom: 1.005;
 }
 }
 

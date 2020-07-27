@@ -1,3 +1,4 @@
 # hltv_ranking
 
-Projet de site internet en python avec Heroku
+Site internet en python avec Heroku
+Scrapper pour récupèrer le classement mondial sur hltv

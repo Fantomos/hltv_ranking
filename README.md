@@ -1,3 +1,2 @@
-# hltv_ranking
-
-Site internet en python avec Heroku et scrapper pour récupèrer le classement mondial sur hltv
+# HLTV Ranking
+Heroku-based website to scrap and filter the Counter-Strike esport world ranking on HLTV : https://www.hltv.org/
